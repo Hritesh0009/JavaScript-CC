@@ -1,0 +1,2 @@
+# JavaScript-CC
+JavaScript
